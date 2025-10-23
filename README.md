@@ -1,4 +1,4 @@
-**Investment-Duration-And-Frequency**
+**Investment-Duration-And-Frequency Task-4/Cognifyz Technologies/internship**
 **Overview and Purpose**
 This repository contains the interactive data model and visualizations for the Investment Duration and Frequency Analysis Project. The primary objective is to dissect investor behavior and portfolio dynamics by analyzing the holding periods of assets and the frequency of transactions. 
 This insight is crucial for assessing portfolio strategy—distinguishing between genuinely passive, long-term investors and highly active traders—and identifying patterns like excessive trading or herd behavior that often correlate with performance deviations.
